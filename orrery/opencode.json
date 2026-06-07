@@ -1,0 +1,7 @@
+{
+  "instructions": [
+    "AGENTS.md",
+    ".agents/rules/*.md",
+    ".agents/workflows/*.md"
+  ]
+}
