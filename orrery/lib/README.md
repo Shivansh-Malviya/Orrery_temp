@@ -1,3 +1,0 @@
-# Lib
-
-Shared reusable code.
