@@ -1,19 +1,19 @@
 # Orrery_temp Federated Architecture Migration
 
 Target commit before rewrite: `946e50b6995227cb174e8a522801887151930c7a`.
-Target commit after rewrite: `PENDING_FINAL_REPORT_UPDATE`.
+Target commit after rewrite: `98ddd5acdea6c67c6c95f653932f518b6bd882aa`.
 
 ## Renames
-- `.agents/AGENTS.md` -> `.agents/README.md`
-- `.agents/Protocols/` -> `.agents/protocols/`
-- `SECOND_BRAIN/` -> `second-brain/`
-- `workspace/pd/` -> `workspace/lattice/`
-- `workspace/career/acos/` or career application material -> `workspace/argos/`
-- `workspace/career/` -> compatibility bridge only
-- `vaults/` -> removed from active tree
+- `.agents/AGENTS.md` to `.agents/README.md`
+- `.agents/Protocols/` to `.agents/protocols/`
+- `SECOND_BRAIN/` to `second-brain/`
+- `workspace/pd/` to `workspace/lattice/`
+- `workspace/career/acos/` to `workspace/argos/`
+- `workspace/career/` to compatibility bridge only
+- `vaults/` removed from active tree
 
 ## Added
-- restricted `workspace/work/` WorkBrain
+- `workspace/work/` WorkBrain
 - `tools/registry.md`
 - workspace `KNOWLEDGE.md` bridges
 - validation script
